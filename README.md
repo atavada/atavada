@@ -2,6 +2,10 @@
 
 <br>
 
+[![visitor](https://visitor-badge.laobi.icu/badge?page_id=atavada)](https://github.com/atavada)
+
+<br>
+
 <p>
 <a href="https://www.instagram.com/_atvdd/">
    <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-9B0FFF?style=for-the-badge&logo=instagram&logoColor=white" />
