@@ -32,8 +32,6 @@
 
 </p>
 
-<br>
-
 ### 📊 Stats
 
 <p>
@@ -45,8 +43,6 @@
 ![Ardha Tavada Trophies](https://github-profile-trophy.vercel.app/?username=atavada&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </p>
-
-<br>
 
 ### 💰 Help me by Donating
 
