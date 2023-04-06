@@ -36,6 +36,8 @@
 
 <br>
 
+![Ardha Tavada Github Stats](https://github-readme-stats.vercel.app/api?username=atavada&show_icons=true&include_all_commits=true&theme=radical)
+
 ![Ardha Tavada Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atavada&layout=compact&theme=radical)
 
 </p>
