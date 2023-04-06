@@ -7,6 +7,7 @@
 <br>
 
 <p>
+   
 <a href="https://www.instagram.com/_atvdd/">
    <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-9B0FFF?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -28,7 +29,7 @@
 
 <p>
 
-- 🌱 I’m currently learning Go-Lang and C#
+- 🌱 I’m currently learning Laravel and Python
 - 💬 Ask me about Something
 - 📫 How to reach me: [@\_atvdd](https://www.instagram.com/_atvdd/)
 
@@ -40,4 +41,11 @@
 
 ![Ardha Tavada Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atavada&layout=compact&theme=radical)
 
+![Ardha Tavada Trophies](https://github-profile-trophy.vercel.app/?username=atavada&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 </p>
+
+<br>
+
+### 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/atavada) 
