@@ -10,10 +10,10 @@
 
 </p>
 
-### 🌐 Social
-
 <p>
 
+### 🌐 Social
+   
 <a href="https://www.instagram.com/_atvdd/">
    <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-9B0FFF?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>&nbsp;&nbsp;
@@ -32,10 +32,10 @@
 
 </p>
 
-### 📊 Stats
-
 <p>
 
+### 📊 Stats
+   
 ![Ardha Tavada Github Stats](https://github-readme-stats.vercel.app/api?username=atavada&show_icons=true&include_all_commits=true&theme=radical)
 
 ![Ardha Tavada Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atavada&layout=compact&theme=radical)
@@ -44,6 +44,10 @@
 
 </p>
 
+<p>
+
 ### 💰 Help me by Donating
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/atavada)
+   
+</p>
