@@ -2,6 +2,14 @@
 
 [![visitor](https://visitor-badge.laobi.icu/badge?page_id=atavada)](https://github.com/atavada)
 
+<p>
+
+- 🌱 I’m currently learning Laravel and Python
+- 💬 Ask me about Something
+- 📫 How to reach me: [@\_atvdd](https://www.instagram.com/_atvdd/)
+
+</p>
+
 ### 🌐 Social
 
 <p>
@@ -21,16 +29,6 @@
 <a href="https://www.linkedin.com/in/ardhatavada/">
    <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-</p>
-
-<br>
-
-<p>
-
-- 🌱 I’m currently learning Laravel and Python
-- 💬 Ask me about Something
-- 📫 How to reach me: [@\_atvdd](https://www.instagram.com/_atvdd/)
 
 </p>
 
