@@ -40,7 +40,7 @@
 
 ![Ardha Tavada Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atavada&layout=compact&theme=radical)
 
-![Ardha Tavada Trophies](https://github-profile-trophy.vercel.app/?username=atavada&theme=radical&no-frame=false&no-bg=true&margin-h=6&margin-w=6)
+![Ardha Tavada Trophies](https://github-profile-trophy.vercel.app/?username=atavada&theme=radical&no-frame=false&no-bg=true&margin-h=15&margin-w=15)
 
 </p>
 
