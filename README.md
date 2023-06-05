@@ -4,7 +4,7 @@
 
 <p>
 
-- 🌱 I’m currently learning Laravel and Python
+- 🌱 I’m currently learning NextJs
 - 💬 Ask me about Something
 - 📫 How to reach me: [@\_atvdd](https://www.instagram.com/_atvdd/)
 
