@@ -1,4 +1,4 @@
-## Hi there, I'm [Ardha Tavada!](https://atavada.github.io/tvd/) 👋
+## Hi there, I'm [Ardha Ardhana Putra Agustavada!](https://atavada.github.io/tvd/) 👋
 
 [![visitor](https://visitor-badge.laobi.icu/badge?page_id=atavada)](https://github.com/atavada)
 
