@@ -11,7 +11,7 @@ I believe in keeping chaos at bay through clean code, precision, and modular com
 </p>
 
 <!-- > [!NOTE]
-> Currently I'm working developing for **[coming soon](url)** -->g
+> Currently I'm working developing for **[coming soon](url)** -->
 
 <img width=400% src="./assets/tech-stack.png" alt="header"/>
 
