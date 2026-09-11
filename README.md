@@ -1,53 +1,40 @@
-## Hi there, I'm [Ardha Ardhana Putra Agustavada!](https://atavada.github.io/tvd/) 👋
+<img width=100% src="./assets/banner.png" alt="header"/>
 
-[![visitor](https://visitor-badge.laobi.icu/badge?page_id=atavada)](https://github.com/atavada)
+# Hello There!
 
-<p>
-
-- 🌱 I’m currently learning NextJs
-- 💬 Ask me about Something
-- 📫 How to reach me: [@\_atvdd](https://www.instagram.com/_atvdd/)
-
+<p align="justify">
+I am Ardha Ardhana Putra, a Software Developer focused on engineering high-performance, user-centric web applications.
 </p>
 
-<p>
-
-### 🌐 Social
-   
-<a href="https://www.instagram.com/_atvdd/">
-   <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-9B0FFF?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-<a href="https://steamcommunity.com/profiles/76561198963652810/">
-   <img align="left" alt="Steam" src="https://img.shields.io/badge/Steam-1B2838?style=for-the-badge&logo=steam&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-<a href="https://discordapp.com/users/tvd#7101">
-   <img align="left" alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-</a>&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/ardhatavada/">
-   <img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
+<p align="justify">
+I believe in keeping chaos at bay through clean code, precision, and modular component architecture. Specializing in the React and Next.js ecosystem with robust REST API integration, my goal is to build scalable, reliable digital experiences that ensure maximum performance and seamless usability.
 </p>
 
-<p>
+<!-- > [!NOTE]
+> Currently I'm working developing for **[coming soon](url)** -->
 
-### 📊 Stats
-   
-![Ardha Tavada Github Stats](https://github-readme-stats.vercel.app/api?username=atavada&show_icons=true&include_all_commits=true&theme=radical)
+<img width=400% src="./assets/tech-stack.png" alt="header"/>
 
-![Ardha Tavada Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=atavada&layout=compact&theme=radical)
+<hr>
 
-![Ardha Tavada Trophies](https://github-profile-trophy.vercel.app/?username=atavada&theme=radical&no-frame=false&no-bg=true&margin-h=15&margin-w=15)
-
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=atavada&show_icons=true&hide_border=true&theme=dark&uwu=truefy" height="110" /><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=atavada&hide_border=true&theme=dark&uwu=truefy" height="110" style="margin-left: -5px;" /><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=atavada&hide_border=true&layout=compact&theme=dark&uwu=truefy" height="110" style="margin-left: -5px;" />
 </p>
 
-<p>
+<h2 align="center">Let's Connects Buddy!</h2>
 
-### 💰 Help me by Donating
+<div align="center">
+  <a href="https://github.com/atavada" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ardhatavada/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/ardhatavada" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=red" />
+  </a>
+</div>
 
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/atavada)
-   
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=atavada&left_text=Couchsurfer&left_color=%23404040&right_color=%23404040&format=true&radius=0&height=25" alt="nvckai" />
 </p>
