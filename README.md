@@ -3,7 +3,7 @@
 # Hello There!
 
 <p align="justify">
-I am Ardha Ardhana Putra, a Software Developer focused on engineering high-performance, user-centric web applications.
+I am Ardha Tavada, a Software Developer focused on engineering high-performance, user-centric web applications.
 </p>
 
 <p align="justify">
