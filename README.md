@@ -2,13 +2,23 @@
 
 # Hello There!
 
-<p align="justify">
-I am Ardha Tavada, a Software Developer focused on engineering high-performance, user-centric web applications.
-</p>
-
-<p align="justify">
-I believe in keeping chaos at bay through clean code, precision, and modular component architecture. Specializing in the React and Next.js ecosystem with robust REST API integration, my goal is to build scalable, reliable digital experiences that ensure maximum performance and seamless usability.
-</p>
+<table>
+  <tr>
+    <td valign="top">
+      <p align="justify">
+        I am Ardha Tavada, a Software Developer focused on engineering high-performance, user-centric web applications.
+      </p>
+      <p align="justify">
+        I believe in keeping chaos at bay through clean code, precision, and modular component architecture. Specializing in the React and Next.js ecosystem with robust REST API integration, my goal is to build scalable, reliable digital experiences that ensure maximum performance and seamless usability.
+      </p>
+      <p align="right"><i>"Dengan nama Allah, Yang Maha Pengasih, lagi Maha Penyayang."</i></p>
+    </td>
+    <td width="30"></td>
+    <td valign="top" width="280">
+      <img src="./assets/gif.gif" width="280" alt="gif">
+    </td>
+  </tr>
+</table>
 
 <!-- > [!NOTE]
 > Currently I'm working developing for **[coming soon](url)** -->
